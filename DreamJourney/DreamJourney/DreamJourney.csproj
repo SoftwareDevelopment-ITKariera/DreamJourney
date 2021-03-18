@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DreamJourney.Data\DreamJourney.Data.csproj" />
+    <ProjectReference Include="..\DreamJourney.Services\DreamJourney.Services.csproj" />
   </ItemGroup>
 
 </Project>

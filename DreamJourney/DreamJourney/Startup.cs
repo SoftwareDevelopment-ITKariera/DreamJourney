@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DreamJourney.Data;
+using DreamJourney.Filters;
+using DreamJourney.Services;
+using DreamJourney.Services.Contracts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -25,9 +28,18 @@ namespace DreamJourney
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSession();
             services.AddControllersWithViews();
+
             //For creating object of the DreamJourneyDbContext
             services.AddDbContext<DreamJourneyDbContext>(options => options.UseSqlServer(ConfigurationData.ConnectionString));
+
+            //Create instances of services
+            services.AddScoped<IUsersService, UsersService>();
+            services.AddScoped<ITripsService, TripsService>();
+            services.AddScoped<ITripApplicationsService, TripApplicationsService>();
+
+            services.AddScoped<TripCreatorFilter>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,7 +59,7 @@ namespace DreamJourney
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseSession();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
