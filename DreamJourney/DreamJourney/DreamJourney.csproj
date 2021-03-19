@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -9,11 +9,13 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\DreamJourney.Data\DreamJourney.Data.csproj" />
     <ProjectReference Include="..\DreamJourney.Services\DreamJourney.Services.csproj" />
+    <ProjectReference Include="..\DreamJourney.ViewModels\DreamJourney.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

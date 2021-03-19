@@ -7,3 +7,11 @@ C:\Users\User\Documents\School\ИТ кариера\Module7_Project\DreamJourney\
 C:\Users\User\Documents\School\ИТ кариера\Module7_Project\DreamJourney\DreamJourney\DreamJourney.Data.Models\obj\Debug\netcoreapp3.1\DreamJourney.Data.Models.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\School\ИТ кариера\Module7_Project\DreamJourney\DreamJourney\DreamJourney.Data.Models\obj\Debug\netcoreapp3.1\DreamJourney.Data.Models.dll
 C:\Users\User\Documents\School\ИТ кариера\Module7_Project\DreamJourney\DreamJourney\DreamJourney.Data.Models\obj\Debug\netcoreapp3.1\DreamJourney.Data.Models.pdb
+D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Data.Models\bin\Debug\netcoreapp3.1\DreamJourney.Data.Models.deps.json
+D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Data.Models\bin\Debug\netcoreapp3.1\DreamJourney.Data.Models.dll
+D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Data.Models\bin\Debug\netcoreapp3.1\DreamJourney.Data.Models.pdb
+D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Data.Models\obj\Debug\netcoreapp3.1\DreamJourney.Data.Models.csprojAssemblyReference.cache
+D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Data.Models\obj\Debug\netcoreapp3.1\DreamJourney.Data.Models.AssemblyInfoInputs.cache
+D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Data.Models\obj\Debug\netcoreapp3.1\DreamJourney.Data.Models.AssemblyInfo.cs
+D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Data.Models\obj\Debug\netcoreapp3.1\DreamJourney.Data.Models.dll
+D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Data.Models\obj\Debug\netcoreapp3.1\DreamJourney.Data.Models.pdb
