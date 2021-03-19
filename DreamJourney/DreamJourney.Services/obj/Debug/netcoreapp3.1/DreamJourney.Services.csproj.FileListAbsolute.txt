@@ -20,3 +20,8 @@ D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyRe
 D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Services\obj\Debug\netcoreapp3.1\DreamJourney.Services.csproj.CopyComplete
 D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Services\obj\Debug\netcoreapp3.1\DreamJourney.Services.dll
 D:\DOCUMENTS\School\IT kariera\modul7\9.Курсов-проект\DreamJourneyReal\DreamJourney\DreamJourney\DreamJourney.Services\obj\Debug\netcoreapp3.1\DreamJourney.Services.pdb
+C:\Users\User\Documents\School\ИТ кариера\Module7_Project\DreamJourney\DreamJourney\DreamJourney.Services\bin\Debug\netcoreapp3.1\DreamJourney.Data.dll
+C:\Users\User\Documents\School\ИТ кариера\Module7_Project\DreamJourney\DreamJourney\DreamJourney.Services\bin\Debug\netcoreapp3.1\DreamJourney.Data.Models.dll
+C:\Users\User\Documents\School\ИТ кариера\Module7_Project\DreamJourney\DreamJourney\DreamJourney.Services\bin\Debug\netcoreapp3.1\DreamJourney.Data.Models.pdb
+C:\Users\User\Documents\School\ИТ кариера\Module7_Project\DreamJourney\DreamJourney\DreamJourney.Services\bin\Debug\netcoreapp3.1\DreamJourney.Data.pdb
+C:\Users\User\Documents\School\ИТ кариера\Module7_Project\DreamJourney\DreamJourney\DreamJourney.Services\obj\Debug\netcoreapp3.1\DreamJourney.Services.csproj.CopyComplete
