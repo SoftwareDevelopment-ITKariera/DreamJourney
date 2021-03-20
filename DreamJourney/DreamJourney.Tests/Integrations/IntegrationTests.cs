@@ -29,24 +29,6 @@ namespace DreamJourney.Tests.Integrations
         }
 
         [Fact]
-        public async Task TripDetailsIsOK()
-        {
-            var service = new WebApplicationFactory<Startup>();
-            var client = service.CreateClient();
-            var response = await client.GetAsync("/Trips/Details");
-            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
-        }
-
-        [Fact]
-        public async Task TripEditIsOK()
-        {
-            var service = new WebApplicationFactory<Startup>();
-            var client = service.CreateClient();
-            var response = await client.GetAsync("/Trips/Edit");
-            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
-        }
-
-        [Fact]
         public async Task TripListIsOK()
         {
             var service = new WebApplicationFactory<Startup>();
