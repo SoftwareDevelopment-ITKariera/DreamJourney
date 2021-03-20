@@ -11,6 +11,16 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("DreamJourney.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\" +
+    "DreamJourney.Data", "DreamJourney.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("DreamJourney.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\" +
+    "DreamJourney.Data.Models", "DreamJourney.Data.Models.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("DreamJourney, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\" +
+    "DreamJourney", "DreamJourney.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("DreamJourney.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\" +
+    "DreamJourney.Services", "DreamJourney.Services.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("DreamJourney.ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\" +
+    "DreamJourney.ViewModels", "DreamJourney.ViewModels.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("DreamJourney.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\DreamJourney.Tests.csproj": {}
+    "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\DreamJourney.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
+    "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj",
+        "projectUniqueName": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj",
         "projectName": "DreamJourney.Data.Models",
-        "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\obj\\",
+        "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\sheydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sheydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,26 +54,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj": {
+    "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj",
+        "projectUniqueName": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj",
         "projectName": "DreamJourney.Data",
-        "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\obj\\",
+        "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj",
+        "packagesPath": "C:\\Users\\sheydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sheydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -86,9 +80,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj"
               }
             }
           }
@@ -101,6 +96,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -138,26 +134,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj": {
+    "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj",
+        "projectUniqueName": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj",
         "projectName": "DreamJourney.Services",
-        "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Services\\obj\\",
+        "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj",
+        "packagesPath": "C:\\Users\\sheydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sheydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -168,12 +160,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj"
               },
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj"
               }
             }
           }
@@ -186,6 +179,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -201,26 +195,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\DreamJourney.Tests.csproj": {
+    "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\DreamJourney.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\DreamJourney.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\DreamJourney.Tests.csproj",
         "projectName": "DreamJourney.Tests",
-        "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\DreamJourney.Tests.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\obj\\",
+        "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\DreamJourney.Tests.csproj",
+        "packagesPath": "C:\\Users\\sheydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sheydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -231,21 +221,22 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj"
               },
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj"
               },
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj"
               },
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj"
               },
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj"
               }
             }
           }
@@ -258,7 +249,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[5.0.4, )"
@@ -298,26 +294,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj": {
+    "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj",
         "projectName": "DreamJourney.ViewModels",
-        "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\obj\\",
+        "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\sheydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sheydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -328,9 +320,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data.Models\\DreamJourney.Data.Models.csproj"
               }
             }
           }
@@ -343,6 +336,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -358,26 +352,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj": {
+    "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj",
+        "projectUniqueName": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj",
         "projectName": "DreamJourney",
-        "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney\\obj\\",
+        "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney\\DreamJourney.csproj",
+        "packagesPath": "C:\\Users\\sheydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sheydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -388,15 +378,16 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Data\\DreamJourney.Data.csproj"
               },
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.Services\\DreamJourney.Services.csproj"
               },
-              "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\School\\ИТ кариера\\Module7_Project\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj"
+              "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\sheydi\\Desktop\\IT_Kariera\\DreamJourney_GitHub\\DreamJourney\\DreamJourney\\DreamJourney.ViewModels\\DreamJourney.ViewModels.csproj"
               }
             }
           }
@@ -409,6 +400,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -439,7 +431,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
